@@ -1,0 +1,25 @@
+{
+  "name": "Innovate Loop",
+  "short_name": "Innovate Loop",
+  "description": "AI and platform engineering consultancy.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#F8F5F0",
+  "theme_color": "#F8F5F0",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

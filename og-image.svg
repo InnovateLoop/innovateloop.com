@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#F8F5F0"/>
+
+  <!-- Card inset border -->
+  <rect x="28" y="28" width="1144" height="574" fill="none" stroke="#E4DDD5" stroke-width="1"/>
+
+  <!-- Large decorative loop, right side, very subtle -->
+  <g transform="translate(780, 140) scale(18)" opacity="0.06">
+    <path d="M4 9 C4 4.5, 7 2, 10 5 C12 7, 12 9, 14 9 C16 9, 16 7, 18 5 C21 2, 24 4.5, 24 9 C24 13.5, 21 16, 18 13 C16 11, 16 9, 14 9 C12 9, 12 11, 10 13 C7 16, 4 13.5, 4 9 Z"
+      stroke="#2D6A55" stroke-width="2" fill="none" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Top left: small loop mark + wordmark -->
+  <g transform="translate(60, 56) scale(1.8)">
+    <path d="M4 9 C4 4.5, 7 2, 10 5 C12 7, 12 9, 14 9 C16 9, 16 7, 18 5 C21 2, 24 4.5, 24 9 C24 13.5, 21 16, 18 13 C16 11, 16 9, 14 9 C12 9, 12 11, 10 13 C7 16, 4 13.5, 4 9 Z"
+      stroke="#2D6A55" stroke-width="2" fill="none" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="118" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#1C1814" letter-spacing="0.5">Innovate Loop</text>
+
+  <!-- Amber rule below wordmark -->
+  <line x1="60" y1="114" x2="140" y2="114" stroke="#B87333" stroke-width="1.5"/>
+
+  <!-- Headline line 1: "Innovate" dark -->
+  <text x="58" y="310" font-family="Georgia, 'Times New Roman', serif" font-size="155" fill="#1C1814">Innovate</text>
+
+  <!-- Headline line 2: "Loop." italic forest green -->
+  <text x="58" y="458" font-family="Georgia, 'Times New Roman', serif" font-size="155" font-style="italic" fill="#2D6A55">Loop.</text>
+
+  <!-- Bottom rule -->
+  <line x1="60" y1="512" x2="1140" y2="512" stroke="#E4DDD5" stroke-width="1"/>
+
+  <!-- Bottom descriptor left -->
+  <text x="60" y="546" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B6158">RAG &amp; LLM Infrastructure · Data Platform Engineering · Cloud &amp; Kubernetes Architecture</text>
+
+  <!-- URL bottom right -->
+  <text x="1140" y="546" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#6B6158" text-anchor="end">innovateloop.com</text>
+</svg>
