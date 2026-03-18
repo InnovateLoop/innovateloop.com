@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:roshanravi.com)"
+      "WebFetch(domain:roshanravi.com)",
+      "WebFetch(domain:innovateloop.com)"
     ]
   },
   "attribution": {
