@@ -171,6 +171,9 @@ h1 em {
   background: transparent;
   border: 1px solid rgba(45,106,85,0.35);
   color: var(--forest);
+}
+
+.btn-ghost + .btn {
   margin-left: 16px;
 }
 
