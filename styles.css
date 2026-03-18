@@ -543,6 +543,14 @@ footer {
   letter-spacing: 0.05em;
 }
 
+.footer-copy a {
+  color: var(--forest);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-copy a:hover { color: var(--forest); }
+
 /* ── ANIMATIONS ── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(20px); }
